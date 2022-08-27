@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oglasi>
+    <oglas>
+        <kategorija tip="automobili" />
+        <datumIsteka>13.9.2025.</datumIsteka>
+        <cena valuta="RSD">450.000</cena>
+        <tekst>Na prodaju auto, vozno stanje</tekst>
+        <oznaka atribut="marka">Opel</oznaka>
+        <oznaka atribut="model">Corsa</oznaka>
+        <oznaka atribut="broj vrata">5</oznaka>
+        <oznaka atribut="tip motora">Dizel</oznaka>
+        <email tip="privatni">nikola12345@gmail.com</email>
+        <email tip="sluzbeni">nikola12345@autofirma.com</email>
+    </oglas>
+</oglasi>
